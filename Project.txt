@@ -1,3 +1,0 @@
-Code for coverage control using a camera mounted on a UGV
-
-Windows 10 Spyder ( Python 3.7 )
