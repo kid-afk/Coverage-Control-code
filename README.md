@@ -1,4 +1,4 @@
-Python Code for coverage control for multiple UGV's
+Python Code for simulation of coverage control for multiple UGV's
 
 Spyder 4 Python 3.7
 
